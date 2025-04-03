@@ -1,6 +1,6 @@
 # Jogo 2D com banco de dados NoSQL
 
-Este projeto é um jogo desenvolvido no Construct 3, com integração ao Firebase para armazenamento e recuperação de dados.
+Este projeto (Jogo do porquinho) é um jogo desenvolvido no Construct 3, com integração ao Firebase para armazenamento e recuperação de dados.
 
 ## Tecnologias Utilizadas
 
@@ -25,7 +25,7 @@ GitHub - Armazenamento dos arquivos do projeto
 Para rodar o projeto, siga os passos abaixo:
 
 1. Clone o repositório:
-git clone https://github.com/StellaBSouza/Gamefacef.git
+git clone https://github.com/StellaBSouza/Jogo_2D_com_banco_de_dados_NoSQL.git
 
 2. Abra o Construct 3 (versão compatível com o projeto).
 
@@ -45,4 +45,4 @@ git clone https://github.com/StellaBSouza/Gamefacef.git
 # 🔗 Acesso Online
 
 - Você pode acessar a aplicação online em: 
-- Você pode acessar o link do Github em: https://github.com/StellaBSouza/Gamefacef.git
+- Você pode acessar o link do Github em: https://github.com/StellaBSouza/Jogo_2D_com_banco_de_dados_NoSQL.git
