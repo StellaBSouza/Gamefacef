@@ -44,5 +44,5 @@ git clone https://github.com/StellaBSouza/Jogo_2D_com_banco_de_dados_NoSQL.git
 
 # 🔗 Acesso Online
 
-- Você pode acessar a aplicação online em: 
+- Você pode acessar a aplicação online em: https://stellabs.itch.io/guerra-dos-porquinhos
 - Você pode acessar o link do Github em: https://github.com/StellaBSouza/Jogo_2D_com_banco_de_dados_NoSQL.git
